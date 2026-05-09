@@ -10,6 +10,17 @@ It solves two major problems:
 HomeTrust combines **data‑driven locality intelligence** with a **verified rental marketplace** to help users make safer and smarter real estate decisions.
 
 ---
+# 🌍 Live Links
+
+* **Frontend:** [https://home-trust-main.vercel.app/](https://home-trust-main.vercel.app/)
+* **Backend API:** [https://hometrust.onrender.com](https://hometrust.onrender.com)
+* **Postman Docs:** [https://documenter.getpostman.com/view/50839329/2sBXqKofES](https://documenter.getpostman.com/view/50839329/2sBXqKofES)
+* **Figma Design:** [https://www.figma.com/design/PsVdgzJknFFixgqsEJQ78E/Untitled](https://www.figma.com/design/PsVdgzJknFFixgqsEJQ78E/Untitled)
+* **YouTube Demo:** [https://youtu.be/V7J295BSAd0](https://youtu.be/V7J295BSAd0)
+---
+
+
+
 
 # 🚀 Key Features
 
@@ -199,13 +210,6 @@ VITE_API_URL=http://localhost:5000/api
 
 ---
 
-# 🌍 Live Links
-
-* **Frontend:** [https://home-trust-main.vercel.app/](https://home-trust-main.vercel.app/)
-* **Backend API:** [https://hometrust.onrender.com](https://hometrust.onrender.com)
-* **Postman Docs:** [https://documenter.getpostman.com/view/50839329/2sBXqKofES](https://documenter.getpostman.com/view/50839329/2sBXqKofES)
-* **Figma Design:** [https://www.figma.com/design/PsVdgzJknFFixgqsEJQ78E/Untitled](https://www.figma.com/design/PsVdgzJknFFixgqsEJQ78E/Untitled)
-* **YouTube Demo:** [https://youtu.be/V7J295BSAd0](https://youtu.be/V7J295BSAd0)
 
 ---
 
